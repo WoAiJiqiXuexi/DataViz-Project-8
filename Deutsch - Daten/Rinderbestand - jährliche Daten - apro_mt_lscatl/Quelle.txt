@@ -1,0 +1,2 @@
+Eurostat
+Datenbanken nach Themen/Landwirtschaft,Forstwirtschaft und Fischerei/Landwirtschaft(agr)/Landwirtschaftliche Erzeugnisse (apro)/Tiererzeugnisse (apro_anip)/Viehbestand und Fleisch (apro_mt)/ Bestände (apro_mt_ls)/Rinderbestand - jährliche Daten (apro_mt_lscatl) 	

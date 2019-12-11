@@ -1,0 +1,2 @@
+Eurostat Website
+https://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-054722_QID_-49883DAA_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;INDIC_DE,L,Z,0;INDICATORS,C,Z,1;&zSelection=DS-054722INDICATORS,OBS_FLAG;DS-054722INDIC_DE,AVG;&rankName1=INDICATORS_1_2_-1_2&rankName2=INDIC-DE_1_2_-1_2&rankName3=TIME_1_0_0_0&rankName4=GEO_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23

@@ -1,0 +1,2 @@
+Eurostat
+Datenbanken nach Themen/Wirtschaft und Finanzen/Volkswirtschaftliche Gesamtrechnungen (ESVG 2010 (na 10)/Jährliche Volkswirtschaftliche Gesamtrechnungen (nama 10)/ZUsätzliche Indikatoren (Bevölkerung, BIP pro Kopf und Produktivität) (nama_10_aux)/Hauptaggregate des BIP pro Kopf (nama_10_pc)

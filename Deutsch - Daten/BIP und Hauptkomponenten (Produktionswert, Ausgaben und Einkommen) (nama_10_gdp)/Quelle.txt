@@ -1,0 +1,2 @@
+Eurostat
+Datenbanken nach Themen/Wirtschaft und Finanzen/Volkswirtschaftliche Gesamtrechnungen (ESVG 2010 (na 10)/Jährliche Volkswirtschaftliche Gesamtrechnungen (nama 10)/Hauptaggregate des BIP (nama_10_ma)/BIP und Hauptkomponenten (Produktionswert, Ausgaben und Einkommen) (nama_10_gdp)
